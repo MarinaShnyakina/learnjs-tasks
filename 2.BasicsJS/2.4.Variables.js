@@ -1,4 +1,4 @@
-"use script";
+"use strict";
 
 let name = "Джон";
 let admin;
