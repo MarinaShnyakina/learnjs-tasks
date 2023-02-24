@@ -1,6 +1,7 @@
 "use strict";
 
 // плохой код, плохо читаемый
+/* 
 function pow(x,n)
 {
   let result=1;
@@ -16,7 +17,8 @@ if (n<=0)
 else
 {
   alert(pow(x,n))
-}
+} 
+*/
 
 
 // хороший код, хорошо читаемый
